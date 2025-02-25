@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m Luis Espinoza Bardales, an Assistant Professor at the Bush School of Government and Public Service at Texas A&M University.
+- 👋 Hi, I’m Luis M. Espinoza Bardales, an Assistant Professor at the Bush School of Government and Public Service at Texas A&M University.
 - 👀 I’m interested in international trade, economic development, structural change, and industrial policy.
 - 📫 You can reach me at lespinoza@tamu.edu.
 
